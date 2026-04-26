@@ -4,7 +4,6 @@ import os
 
 load_dotenv()
 
-HUGGINGFACE_MODEL = os.getenv("HUGGINGFACE_MODEL")
 HUGGINGFACEHUB_API_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
