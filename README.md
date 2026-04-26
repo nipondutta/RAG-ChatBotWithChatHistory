@@ -62,8 +62,6 @@ TEMPERATURE=float
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_token
 ```
 
-If you use a different HF model, update `HUGGINGFACE_MODEL` accordingly.
-
 ## Run the App
 
 From the project root:
