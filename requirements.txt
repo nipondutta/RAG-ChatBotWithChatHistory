@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-classic
+chromadb
+pypdf
+python-multipart
+python-dotenv
+fastapi
+uvicorn
+langchain-text-splitters
+sentence-transformers
+huggingface-hub

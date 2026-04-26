@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+Logs/
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# # Data (ignore if large)
+# Data/
+
+# # Vector DB (rebuildable)
+# VectorStore/
