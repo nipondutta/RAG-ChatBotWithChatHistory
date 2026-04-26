@@ -20,6 +20,10 @@ A FastAPI-based Retrieval-Augmented Generation (RAG) chatbot using:
 
 ## Requirements
 
+Important:
+Need to create Data directory. path -> root/Data/raw
+Need to create Log. path -> root/Log
+
 Install Ollama:
 
 ```bash
