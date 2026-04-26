@@ -1,25 +1,20 @@
-# Virtual environment
-venv/
-
-# Environment variables
+# Environment file
 .env
 
-# Python cache
-__pycache__/
-*.pyc
+# Virtual environment (file or folder named .venv)
+.venv
 
-# Logs
-Logs/
+# Log files
 *.log
 
-# OS / Editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+# PDF files
+*.pdf
 
-# # Data (ignore if large)
-# Data/
+# Binary files
+*.bin
 
-# # Vector DB (rebuildable)
-# VectorStore/
+# SQLite database files
+*.sqlite3
+
+# Python cache files
+*.pyc
